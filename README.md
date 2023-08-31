@@ -38,6 +38,6 @@ Identify the product subcategory that is the least profitable in Southeast Asia.
 
   # Modelling
   I employed a star schema for my data modeling approach.
- ![](Power_BI_image.jpg)
+ ![](Modelling.PNG)
   
-
+ # Visualization
