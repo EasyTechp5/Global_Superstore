@@ -26,11 +26,15 @@ African countries?
 - Question 4.
 Identify the product subcategory that is the least profitable in Southeast Asia.
 
-# Skills/concept demonstrated
+# Skills/Concepts Demonstrated
 - Data Analysis and Exploration
 - Data Visualization
+- 
+!()[power_BI.jpg]
+  
 - Statistical Analysis
 - Critical Thinking
-- DAX
+- DAX (Data Analysis Expression)
+
 
 
