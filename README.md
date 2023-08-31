@@ -41,3 +41,33 @@ Identify the product subcategory that is the least profitable in Southeast Asia.
  ![](Modelling.PNG)
   
  # Visualization
+The Dashboard comprises of 
+
+- Home Page
+
+![](visual1.PNG)  
+
+- Profitable Countries
+![](visual2.PNG)  
+
+- Highly Profitable Products
+![](visual3.PNG)
+
+- Nigeria's Profitability and Comparison
+![](visual4.PNG)
+
+- Least Profitable Subcategory in Southeast Asia
+![](visual5.PNG)  
+
+ # Recommendation
+- Focus on Top-Performing Markets: Given that certain countries are generating the highest total profit, allocate more resources and marketing efforts to these countries.
+- Nigeria Market Strategy: To address Nigeria's lower profitability compared to other African countries, delve into the factors impacting performance.
+- Southeast Asia Product Strategy: Discontinue or reevaluate the least profitable product subcategory in Southeast Asia.
+
+  # Conclusion
+- **Global Superstore's profitability in 2014 was driven by select countries, emphasizing the importance of targeted marketing and strategic resource allocation.**
+
+  Thank you
+  ![](thanks.jpg)
+
+  You can connect with me on LinkedIn [Here](https://www.linkedin.com/in/israelafolabieasytech/)
